@@ -1,4 +1,4 @@
-module hutchyben.dev/dsicordbort
+module github.com/HutchyBean/discordbot
 
 go 1.16
 require (

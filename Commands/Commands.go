@@ -1,7 +1,7 @@
 package Commands
 
 import (
-	"hutchyben.dev/dsicordbort/DCH"
+	"github.com/HutchyBean/discordbot/DCH"
 	"log"
 )
 

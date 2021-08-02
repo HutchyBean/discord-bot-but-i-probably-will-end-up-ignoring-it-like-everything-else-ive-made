@@ -2,10 +2,10 @@ package main
 
 import (
 	"fmt"
+	"github.com/HutchyBean/discordbot/Commands"
+	"github.com/HutchyBean/discordbot/DCH"
 	"github.com/bwmarrin/discordgo"
 	"github.com/joho/godotenv"
-	"hutchyben.dev/dsicordbort/Commands"
-	"hutchyben.dev/dsicordbort/DCH"
 	"log"
 	"os"
 )
